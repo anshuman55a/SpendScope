@@ -1,0 +1,16 @@
+# Node.js (for frontend)
+frontend/node_modules/
+frontend/.env
+
+# Python (for backend)
+backend/venv/
+backend/__pycache__/
+backend/.venv
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
